@@ -1,0 +1,10 @@
+# gomobile artifacts
+*.aar
+*.jar
+android/
+# Go build cache
+/go-build/
+*.test
+# local state
+tailnet-state/
+*.log
